@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C39EC10244C6CD20080F811 /* TableViewListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C39EC0F244C6CD20080F811 /* TableViewListVC.swift */; };
 		6C4A72AC2449E75500CBE320 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4A72AB2449E75500CBE320 /* AppDelegate.swift */; };
 		6C4A72AE2449E75500CBE320 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4A72AD2449E75500CBE320 /* SceneDelegate.swift */; };
 		6C4A72B02449E75500CBE320 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4A72AF2449E75500CBE320 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C39EC0F244C6CD20080F811 /* TableViewListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewListVC.swift; sourceTree = "<group>"; };
 		6C4A72A82449E75500CBE320 /* TravelBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C4A72AB2449E75500CBE320 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6C4A72AD2449E75500CBE320 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				6C4A72AB2449E75500CBE320 /* AppDelegate.swift */,
 				6C4A72AD2449E75500CBE320 /* SceneDelegate.swift */,
 				6C4A72AF2449E75500CBE320 /* ViewController.swift */,
+				6C39EC0F244C6CD20080F811 /* TableViewListVC.swift */,
 				6C4A72B12449E75500CBE320 /* Main.storyboard */,
 				6C4A72B72449E75800CBE320 /* Assets.xcassets */,
 				6C4A72B92449E75800CBE320 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				6C4A72B62449E75500CBE320 /* TravelBook.xcdatamodeld in Sources */,
 				6C4A72B02449E75500CBE320 /* ViewController.swift in Sources */,
 				6C4A72AC2449E75500CBE320 /* AppDelegate.swift in Sources */,
+				6C39EC10244C6CD20080F811 /* TableViewListVC.swift in Sources */,
 				6C4A72AE2449E75500CBE320 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
